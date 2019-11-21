@@ -1,0 +1,14 @@
+../webencodings/__init__.py
+../webencodings/__pycache__/__init__.cpython-37.pyc
+../webencodings/__pycache__/labels.cpython-37.pyc
+../webencodings/__pycache__/mklabels.cpython-37.pyc
+../webencodings/__pycache__/tests.cpython-37.pyc
+../webencodings/__pycache__/x_user_defined.cpython-37.pyc
+../webencodings/labels.py
+../webencodings/mklabels.py
+../webencodings/tests.py
+../webencodings/x_user_defined.py
+PKG-INFO
+SOURCES.txt
+dependency_links.txt
+top_level.txt
