@@ -2,7 +2,7 @@
 from django.contrib import admin
 from django import forms
 from django.db import models
-from centro.models import Cursos,Alumnos,Departamentos,Profesores,Areas
+from centro.models import Cursos,Alumnos,Departamentos,Profesores,Areas,Modulos
 from django.contrib.admin.widgets import FilteredSelectMultiple
 # Register your models here.
 class AlumnosAdmin(admin.ModelAdmin):
@@ -51,3 +51,4 @@ admin.site.register(Departamentos)
 admin.site.register(Areas,AreasAdmin)
 admin.site.register(Alumnos,AlumnosAdmin)
 admin.site.register(Profesores,PorfesoresAdmin)
+admin.site.register(Modulos)
